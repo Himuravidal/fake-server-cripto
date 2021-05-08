@@ -1,0 +1,14 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "this is a fake server with a db from a json file",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Cristian Vidal",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
